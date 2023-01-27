@@ -1,1 +1,1 @@
-console.log("teest server")
+console.log("test server")
